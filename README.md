@@ -1,8 +1,7 @@
 # Primeira_API_Python
 minha primeira API em python
 
-
-Essa API foi criada para aprendizado. usei um video do canal Dev Aprender. um abraço para o professor Jhonatan.
+Essa API foi criada para aprendizado. usei um video do canal Dev Aprender como referencia, um abraço para o professor Jhonatan.
 
 Link do video: https://www.youtube.com/watch?v=FBLAV1SbJFk
 
